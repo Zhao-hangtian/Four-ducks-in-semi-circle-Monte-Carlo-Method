@@ -23,4 +23,5 @@
 
 ## mathematical derivation
 ![avatar](./solution_1.jpg)
+
 ![avatar](./solution_2.jpg)
