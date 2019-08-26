@@ -20,3 +20,7 @@
 ## TO DO LIST
 1. 动态生成采样点
 2. 动态绘制result结果,并加入收敛判定函数
+
+## mathematical derivation
+![avatar](./solution_1.jpg)
+![avatar](./solution_2.jpg)
