@@ -1,6 +1,5 @@
-# Four-ducks-in-semi-circle-Monte-Carlo-Method
+# Monte carlo simulation of four duck semicircle problems
 # 四只鸭子共半圆问题的蒙特卡洛模拟（CPU并行计算）
-## Monte carlo simulation of four duck semicircle problems
 
 ## 问题描述：
 就是4只鸭子在一个圆,求他们在一个半圆的概率。
