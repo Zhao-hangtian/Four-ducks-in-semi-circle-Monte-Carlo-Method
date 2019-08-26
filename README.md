@@ -16,7 +16,7 @@
 3. 提供了友好的过程可视化
 
 ## 使用注意事项
-0. [代码地址](https://github.com/Zhao-hangtian/Four-ducks-in-semi-circle-Monte-Carlo-Method/blob/master/four_ducks_Monte.ipynb "Monte Carlo simulation Python3 Code, cpu parallel")
+0. [代码地址在这里](https://github.com/Zhao-hangtian/Four-ducks-in-semi-circle-Monte-Carlo-Method/blob/master/four_ducks_Monte.ipynb "Monte Carlo simulation Python3 Code, cpu parallel")
 1. 请根据你计算的性能和预期使用的时间调整采样点数量
 2. 根据你计算机的核心数(超线程数)调整cpu_num变量
 
